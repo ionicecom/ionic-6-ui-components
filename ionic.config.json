@@ -1,0 +1,7 @@
+{
+  "name": "ui-components",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
